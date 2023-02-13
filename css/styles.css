@@ -11,7 +11,7 @@ body{
     color: #212121;
 }
 
-.logo {
+.header-logo {
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
@@ -57,6 +57,7 @@ body{
     text-align: center;
     letter-spacing: 0.03em;
     background: #F5F4FA;
+    border-color: #F5F4FA;
     border-radius: 4px;
 }
 
@@ -112,3 +113,10 @@ body{
     color: #2196F3;
 }
 
+.footer-logo {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
